@@ -14,10 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation, Log Analysis, Wireshark, Linux, Windows          | <a href="https://google.com">TryHackMe Journal</a>|
-| Vulnerability and Risk Assessment | <a href="https://docs.google.com/document/d/1JG9U_hQgAyVz8N8Zg-TDo_KTN8vXzo-sR1P2_goCwK0/edit?usp=sharing">Risk Assesment</a>|
-| MySQL        | <a href="https://docs.google.com/document/d/1vsw_qklwKuZrPngdhgFcuKSseZ62HUKj/edit?usp=sharing&ouid=117466453695957990305&rtpof=true&sd=true"> SQL Query</a>|
-| Incident Response Planning      | <a href="https://docs.google.com/document/d/1U6gnR4vm6iO5jAAHkby1qMse9_ISUsJH/edit?usp=sharing&ouid=117466453695957990305&rtpof=true&sd=true"> Incident Handler Journal</a>|
+| SIEM Implementation, Log Analysis, Wireshark, Linux, Windows          | [TryHackMe Journal](https://docs.google.com/document/d/1Ug2vd-WcTqhisPcxM4BYkCUdLxY5-U_muSSC0H_ubfE/edit?usp=sharing)</a>|
+| Vulnerability and Risk Assessment | [Risk Assessment](https://docs.google.com/document/d/1JG9U_hQgAyVz8N8Zg-TDo_KTN8vXzo-sR1P2_goCwK0/edit?usp=sharing)</a>|
+| MySQL        | [SQL Query](https://docs.google.com/document/d/1vsw_qklwKuZrPngdhgFcuKSseZ62HUKj/edit?usp=sharing&ouid=117466453695957990305&rtpof=true&sd=true)</a>|
+| Incident Response Planning      | [Incident Handler's Journal](https://docs.google.com/document/d/1U6gnR4vm6iO5jAAHkby1qMse9_ISUsJH/edit?usp=sharing&ouid=117466453695957990305&rtpof=true&sd=true)</a>|
 
 ## Tools
 <div>
