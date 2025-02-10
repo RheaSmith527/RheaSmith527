@@ -1,5 +1,7 @@
 # Hello, I'm Rhea Smith
-<a href="https:www.linkedin.com/in/rhea-smith-0527-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rhea-smith-0527-cyber">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
 
 I am a recent graduate of Merit America with a profound interest in technology and a dedication to developing the Cybersecurity world.
 
