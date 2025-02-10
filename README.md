@@ -9,10 +9,10 @@ I am a recent graduate of Merit America with a profound interest in technology a
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, looking to get my start in IT then aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects
 
 
-| Skill                                         | Associated Project         |
+| Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation, Log Analysis, Wireshark, Linux, Windows          | [TryHackMe Journal](https://docs.google.com/document/d/1Ug2vd-WcTqhisPcxM4BYkCUdLxY5-U_muSSC0H_ubfE/edit?usp=sharing)</a>|
 | Vulnerability and Risk Assessment | [Risk Assessment](https://docs.google.com/document/d/1JG9U_hQgAyVz8N8Zg-TDo_KTN8vXzo-sR1P2_goCwK0/edit?usp=sharing)</a>|
