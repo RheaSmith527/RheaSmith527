@@ -3,7 +3,24 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-I am a recent graduate of Merit America with a profound interest in technology and a dedication to developing the Cybersecurity world.
+I am an aspiring cybersecurity professional powering my way through a rigorous
+educational program to help me get my footing in this field. I love getting the 
+opportunity to learn more about Linux, different Log and Packet readers, as well
+as different possible social engineering attacks. I have developed myself 
+throughout my career in different food service, managerial roles, and my time
+at a renowned research university. My time as a lead caterer helped me develop
+an awarness of balancing what a customer states that they need and what exactly
+that requires on the back end. My time as an assistant manager for Domino's has
+pushed me to develop my capablity to split up tasks into smaller goals and how
+to delegate those goals effectively and efficiently. Being surrounded by genius
+young adults all passionate about research has driven in me a desire to not only
+grow my own knowledge but how to use that drive to assist others in ways they may not
+know they need just yet. I am incredibly excited to work towards developing new 
+and innovative methods to combat social engineering! I feel it's an area where
+people are more vulnerable than we may expect. But for me to get to that point
+I need to take that first step in to the industry so that within the next
+5-10 years I may just be able to stand on equal footing to those ingenious giants
+that have paved our way.
 
 ## Objective
 
